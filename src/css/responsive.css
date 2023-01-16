@@ -1,0 +1,51 @@
+@media (max-width: 400px) {
+  .container {
+    width: 320px;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.35fr 0.65fr;
+    column-gap: 0px;
+  }
+  .title {
+    margin-top: 32px;
+    font-size: 26px;
+    width: 300px;
+    text-align: center;
+  }
+
+  .subtitle {
+    width: 310px;
+    text-align: center;
+  }
+
+  .try-it {
+    font-size: 14px;
+    width: 310px;
+    padding: 20px 50px;
+  }
+
+  .signup {
+    height: 600px;
+  }
+
+  .form {
+    width: 310px;
+    padding: 20px 20px;
+  }
+
+  .input {
+    width: 270px;
+  }
+
+  .claim-button {
+    width: 270px;
+    letter-spacing: 1px;
+  }
+
+  .error-icon {
+    top: 25%;
+  }
+
+  .error-icon-2 {
+    top: 45%;
+  }
+}
