@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://vtrv123.github.io/challengeBaseApparel/)
+- Live Site URL: (https://vtrv123.github.io/challengeIntroWithSignup/)
 
 ## My process
 
